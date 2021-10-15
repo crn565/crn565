@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @crn565
+- 👋 Hi, I’m Carlos Rodriguez Navarro from Almeria (Spain) my nick is  @crn565
 - 👀 I’m interested in electronic, computing, blogging,martial arts, and a large number of matters.
 - 🌱 I’m currently learning machine learning and NILM.
 - 💞️ I’m looking to collaborate on NILMTK.
