@@ -56,8 +56,9 @@ etc
 
 I have also written two books in both digital and paper format
 
-THE FIRST BOOK ABOUT NETDUINO 2 IN SPANISH: Step-by-step home automation projects for all levels (Spanish Edition) 
-Netduino 2 in Spanish: Echo Version (Spanish Edition)
+- THE FIRST BOOK ABOUT NETDUINO 2 IN SPANISH: Step-by-step home automation projects for all levels (Spanish Edition) https://amzn.to/3soMo66
+
+- Netduino 2 in Spanish: Echo Version (Spanish Edition) https://amzn.to/3IYX6Gs
 
 ## Blogging
 
