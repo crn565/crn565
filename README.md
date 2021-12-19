@@ -51,10 +51,10 @@ I have published numerous technical articles over many years in national publica
 
 - «Multipurpose USB oscilloscope-voltmeter for PC» nº50, TodoElectronica
 
-etc
+- etc.
 
 
-I have also written two books in both digital and paper format
+I've also written two books in both digital and paper format.
 
 - THE FIRST BOOK ABOUT NETDUINO 2 IN SPANISH: Step-by-step home automation projects for all levels (Spanish Edition) https://amzn.to/3soMo66
 
@@ -73,7 +73,7 @@ I am currently the editor of the following blogs:
 - https://takedakanalmeria.wordpress.com
 
 
-I am passionate about martial arts. These are my belts:
+I'm learning  martial arts since I can remenber. These are my belts:
 
 - First dan Karate by the RFEK (Royal Spanish Karate Federation
 
@@ -84,9 +84,12 @@ I am passionate about martial arts. These are my belts:
 
 ## Contact ways
 
-If you need to contact twith me, you can write to the following email addressses:
+If you need to contact me, you can address to the following emails:
+ 
  -  soloelectronicos@telefonica.net
+ 
  -  contacto@soloelectronicos.com
+ 
  -  info@soloelectronicos.com
 
 
