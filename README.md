@@ -1,15 +1,15 @@
-Hi, I’m Carlos Rodriguez Navarro from Almeria (Spain) my nick is  @crn565.  I’m interested in electronic, computing, blogging,martial arts, and a large number of matters. I’m currently learning machine learning and NILM. 💞️ I’m looking to collaborate on NILMTK.
+Hi, I’m Carlos Rodriguez Navarro from Almeria (Spain) my nick is  @crn565.  I’m interested in electronic, computing, blogging, martial arts, and a lot of other stuff. I’m currently learning machine learning and NILM. 💞️ I’m looking to collaborate on NILMTK.
 
 
 
 
 ## Working Live
 
-I am an Industrial Technical Engineer in the electricity area with specialty in Industrial Electronics and I'm also a Technical Systems Computer Engineer from UNED.
+I'm an Industrial Technical Engineer in the electricity area with specialty in Industrial Electronics and I'm also a Technical Systems Computer Engineer from UNED.
 
 I have worked as a Project Manager at Telefónica de España and I have also been a collaborating professor at the EET (Telefónica School of Technical Excellence) in the Systems department in the Innovation section.
 
-I have won two Ideas contests in Telefonica Spain (Energy saving and Automated sending of calls)
+I've already won two Ideas contests in Telefonica Spain (Energy saving and Automated sending of calls)
 
 In 2014 I was a finalist in the Big Idea Competition Europe.
 
