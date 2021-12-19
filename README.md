@@ -1,5 +1,4 @@
-Hi, I’m Carlos Rodriguez Navarro from Almeria (Spain) my nick is  @crn565.  I’m interested in electronic, computing, blogging, martial arts, and a lot of other stuff. I’m currently learning machine learning and NILM. 💞️ I’m looking to collaborate on NILMTK.
-
+Hi, I’m Carlos Rodriguez Navarro from Almeria (Spain) my nickname is @crn565.  I’m interested in electronics,DIY,3d printing, computing, blogging, martial arts, and a lot of other stuff. I’m currently studying machine learning and NILM. 💞️ I’m looking foward to collaborate on NILMTK.
 
 
 
