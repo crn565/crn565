@@ -2,25 +2,17 @@
 
 *I have worked at Telefónica de España for almost 30 years in digital switching systems, digital transmission and energy systems. I have also been a network administrator and web developer, PL-SQL (Oracle), Java, ASP, JSP, JS, CSS, etc. I have also worked as a Project Manager at Telefónica de España in document systems based on   Oracle-Intermedia-Text(ORACLE) and Documentum (EMC).*
 
-*For about 15 years I have been a collaborating professor at the EET of Telefónica en Sistemas. I've also been a beta-tester in the IdeaLab area of Telefonica de España for 20 year or so.*
+*For about 15 years I have been a collaborating professor at the EET (School of Technical Excellence of Telefónica) of Telefónica en Sistemas in the Systems chair in the Innovation part. I've also been a beta-tester in the IdeaLab area of Telefonica de España for 20 year or so.*
+*I have won two Ideas competitions in Telefónica Spain (Energy Saving and Call Sending Automation).In 2014 I was a finalist in the Big Idea Competition Europe.*
+
 *I am currently retired, but I have not lost the desire to continue learning, because  because I'm currently a PhD student at the UAL in Industrial Engineering.*
 
 *I have published two books and also numerous articles in both technology and scientific journals. I am passionate about technology because I believe it can help humanity improve in many aspects.*
 
 *.![](50c8afd1ad130859e167d2cd126994a0.png)*
 
-## Working Live
-
-I am an Industrial Technical Engineer in the branch of electricity with the specialty of Industrial Electronics at the EUTI of Jaén and I am also a Technical Computer Systems Engineer from the UNED.I also have a Master's Degree in Technologies and Applications in Computer Engineering, specializing in IOT (Internet of Things), from the UAL.
-
-I am currently finishing my PhD studies in Industrial Engineering.
-
-
-I have worked at Telefónica de España for almost 30 years in digital switching systems, digital transmission and energy systems. I have also been a network administrator and web developer, PL-SQL (Oracle), Java, ASP, JSP, JS, CSS, etc. I have also worked as a Project Manager at Telefónica de España (in document systems based on EMC Oracle-Text and Documentum)nd I have also been a collaborating professor at the EET (School of Technical Excellence of Telefónica) in the Systems chair in the Innovation part. I have won two Ideas competitions in Telefónica Spain (Energy Saving and Call Sending Automation).
-
-In 2014 I was a finalist in the Big Idea Competition Europe.
-
 ## Publications in scientific journals
+In my studies of  PhD student at the UAL in Industrial Engineering i've published two scientific papers:
 
 -   C. Rodriguez-Navarro, A. Alcayde, V. Isanbaev, L. Castro-Santos, A. Filgueira-Vizoso, and F. G. Montoya, “DSUALMH- A new high-resolution dataset for NILM,” *Renewable Energy and Power Quality Journal*, vol. 21, no. 1, pp. 238–243, Jul. 2023, doi: 10.24084/repqj21.286.
 -   C. Rodríguez-Navarro, F. Portillo, F. Martínez, F. Manzano-Agugliaro, and A. Alcayde, “Development and Application of an Open Power Meter Suitable for NILM,” *Inventions*, vol. 9, no. 1, p. 2, Dec. 2023, doi: 10.3390/inventions9010002.
