@@ -2,8 +2,8 @@
 
 *I have worked at Telefónica de España for almost 30 years in digital switching systems, digital transmission and energy systems. I have also been a network administrator and web developer, PL-SQL (Oracle), Java, ASP, JSP, JS, CSS, etc. I have also worked as a Project Manager at Telefónica de España in document systems based on   Oracle-Intermedia-Text(ORACLE) and Documentum (EMC).*
 
-*For about 15 years I have been a collaborating professor at the EET of Telefónica en Sistemas. I have also been a beta-tester in the IdeaLab area of Telefonica de España*
-*I am currently retired, but I have not lost the desire to continue learning because  because I am currently a PhD student at the UAL in Industrial Engineering.*
+*For about 15 years I have been a collaborating professor at the EET of Telefónica en Sistemas. I've also been a beta-tester in the IdeaLab area of Telefonica de España for 20 year or so.*
+*I am currently retired, but I have not lost the desire to continue learning, because  because I'm currently a PhD student at the UAL in Industrial Engineering.*
 
 *I have published two books and also numerous articles in both technology and scientific journals. I am passionate about technology because I believe it can help humanity improve in many aspects.*
 
