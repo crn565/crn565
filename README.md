@@ -16,7 +16,8 @@ I am an Industrial Technical Engineer in the branch of electricity with the spec
 
 I am currently finishing my PhD studies in Industrial Engineering.
 
-I have worked as a Project Manager at Telefónica de España and I have also been a collaborating professor at the EET (School of Technical Excellence of Telefónica) in the Systems chair in the Innovation part. I have won two Ideas competitions in Telefónica Spain (Energy Saving and Call Sending Automation).
+
+I have worked at Telefónica de España for almost 30 years in digital switching systems, digital transmission and energy systems. I have also been a network administrator and web developer, PL-SQL (Oracle), Java, ASP, JSP, JS, CSS, etc. I have also worked as a Project Manager at Telefónica de España (in document systems based on EMC Oracle-Text and Documentum)nd I have also been a collaborating professor at the EET (School of Technical Excellence of Telefónica) in the Systems chair in the Innovation part. I have won two Ideas competitions in Telefónica Spain (Energy Saving and Call Sending Automation).
 
 In 2014 I was a finalist in the Big Idea Competition Europe.
 
