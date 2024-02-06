@@ -1,4 +1,14 @@
-Hi, I’m Carlos Rodriguez Navarro from Almeria (Spain) my nickname is @crn565. I’m interested in electronics, DIY,3d printing, computing, blogging, martial arts, and a lot of other stuff. I’m currently studying machine learning and NILM. I’m looking foward to collaborate on NILMTK.
+*I am an Industrial Technical Engineer in the specialty of Industrial Electronics from the EUTI of Jaén. I also have a degree in Computer Systems Engineering from the UNED. I have a Master's degree in Computer Engineering from UAL (IOT specialty).*
+
+*I am currently a PhD student at the UAL in Industrial Engineering.*
+
+*I have worked at Telefónica de España for almost 30 years in digital switching systems, digital transmission and energy systems. I have also been a network administrator and web developer, PL-SQL (Oracle), Java, ASP, JSP, JS, CSS, etc. I have also worked as a Project Manager at Telefónica de España (in document systems based on EMC Oracle-Text and Documentum).*
+
+*For about 15 years I have been a collaborating professor at the EET of Telefónica en Sistemas. I have also been a beta-tester in the IdeaLab area of Telefonica de España*
+
+*I have published two books and also numerous articles in both technology and scientific journals. I am passionate about technology because I believe it can help humanity improve in many aspects.*
+
+*.![](media/50c8afd1ad130859e167d2cd126994a0.png)*
 
 ## Working Live
 
@@ -65,7 +75,6 @@ If you need to contact me, you can address to the following emails:
 -   soloelectronicos@telefonica.net
 -   contacto@soloelectronicos.com
 -   info@soloelectronicos.com
-
 
 
 
