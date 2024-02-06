@@ -8,7 +8,7 @@
 
 *I have published two books and also numerous articles in both technology and scientific journals. I am passionate about technology because I believe it can help humanity improve in many aspects.*
 
-*.![](media/50c8afd1ad130859e167d2cd126994a0.png)*
+*.![](50c8afd1ad130859e167d2cd126994a0.png)*
 
 ## Working Live
 
