@@ -1,4 +1,4 @@
-*I am an Industrial Technical Engineer in the specialty of Industrial Electronics from the EUTI of Jaén. I also have a degree in Computer Systems Engineering from the UNED and finally I've a Master's degree in Computer Engineering from UAL (IOT specialty).*
+*I am an Industrial Technical Engineer in the specialty of Industrial Electronics from the EUTI of Jaén. I also have a degree in Computer Systems Engineering from the UNED and finally I've a Master's degree in Computer Engineering from UAL (IOT speciality).*
 
 *I have worked at Telefónica de España for almost 30 years in digital switching systems, digital transmission and energy systems. I have also been a network administrator and web developer, PL-SQL (Oracle), Java, ASP, JSP, JS, CSS, etc. I have also worked as a Project Manager at Telefónica de España (in document systems based on EMC Oracle-Text and Documentum).*
 
