@@ -11,15 +11,16 @@
 
 *I have published two books and numerous articles in technical and scientific journals. I am passionate about technology because I believe it can help humanity to improve in many ways.*
 
-*.![](50c8afd1ad130859e167d2cd126994a0.png)*
 
-## Publications in scientific journals
+
+# Publications in scientific journals
+
 While studying for my PhD in Industrial Engineering at the UAL, I've managed to get two scientific papers published:
 
 -   C. Rodriguez-Navarro, A. Alcayde, V. Isanbaev, L. Castro-Santos, A. Filgueira-Vizoso, and F. G. Montoya, “DSUALMH- A new high-resolution dataset for NILM,” *Renewable Energy and Power Quality Journal*, vol. 21, no. 1, pp. 238–243, Jul. 2023, doi: 10.24084/repqj21.286.
 -   C. Rodríguez-Navarro, F. Portillo, F. Martínez, F. Manzano-Agugliaro, and A. Alcayde, “Development and Application of an Open Power Meter Suitable for NILM,” *Inventions*, vol. 9, no. 1, p. 2, Dec. 2023, doi: 10.3390/inventions9010002.
 
-## Publications in journals
+# Publications in journals
 
 I am passionate about technology as well as creating new things that can help people.
 
@@ -47,7 +48,7 @@ I've also written two books in both digital and paper format.
 -   THE FIRST BOOK ABOUT NETDUINO 2 IN SPANISH: Step-by-step home automation projects for all levels (Spanish Edition) https://amzn.to/3soMo66.
 -   Netduino 2 in Spanish: Echo Version (Spanish Edition) https://amzn.to/3IYX6Gs.
 
-## Blogging
+# Blogging
 
 I am currently the editor of the following blogs:
 
@@ -62,13 +63,18 @@ I'm learning martial arts since I can remember. These are my belts:
 -   Kobudo Brown Belt by ABE (Spanish Budo Association)
 -   Iaido Brown Belt by TAKEDA RYU-MAROTO HA
 
-## Contact ways
+*.![](50c8afd1ad130859e167d2cd126994a0.png)*
+
+
+# Contact ways
 
 If you need to contact me, you can address to the following emails:
 
 -   soloelectronicos@telefonica.net
 -   contacto@soloelectronicos.com
 -   info@soloelectronicos.com
+
+
 
 
 
