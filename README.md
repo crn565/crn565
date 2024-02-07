@@ -1,4 +1,4 @@
-A LESS WORDS ABOUT ME
+# A LESS WORDS ABOUT ME
 
 *I have a degree in Industrial Engineering from the EUTI in Jaén, specialising in Industrial Electronics. I am also a Computer Systems Engineer from the UNED and I have a Masters in Computer Engineering from the UAL (IOT specialisation).*
 
