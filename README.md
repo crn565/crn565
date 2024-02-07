@@ -1,3 +1,5 @@
+*A LESS WORDS ABOUT ME
+
 *I have a degree in Industrial Engineering from the EUTI in Jaén, specialising in Industrial Electronics. I am also a Computer Systems Engineer from the UNED and I have a Masters in Computer Engineering from the UAL (IOT specialisation).*
 
 *I have worked for Telefónica de España for almost 30 years in digital switching, digital transmission and power systems. I have also been a network administrator and web developer, PL-SQL (Oracle), Java, ASP, JSP, JS, CSS, etc. I have also worked for 15 years as a project manager in Telefónica de España in document systems based on Oracle-Intermedia-Text (ORACLE) and Documentum (EMC).*
