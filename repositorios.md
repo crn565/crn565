@@ -7,7 +7,7 @@ LISTADO DE REPOSITORIOS SOBRE EL NILM
 5.  **10AplicativosOZM_DOS_HORAS_MAS_APRENDIZAJEEXTRA** 10 Aplicativos OZM_dos dias medidas( 3-7-2023 y 6-9-2023). Jupyter Notebook. https://github.com/crn565/10AplicativosOZM_DOS_HORAS_MAS_APRENDIZAJEEXTRA
 6.  **DSUALMH_OZM** :Tercer experimento con 6 oZms, uno principal y 5 subcontadores, usando los 150 armónicos. Jupyter Notebook https://github.com/crn565/DSUALMH_OZM
 7.  **DSUAL_without-armonics** :Usamos 6 dispositivos OZM v1 (uno principal para el agregado y 5 para aplicativos) sin usar transitorios. https://github.com/crn565/DSUAL_without-armonics
-8.  **PZEM004_ESP32** C++ https://github.com/crn565/PZEM004_ESP32
+8.  **PZEM004_ESP32**: Código inicial para toma de datos con un ESP32 y un unico modulo PZEM004. C++ https://github.com/crn565/PZEM004_ESP32
 9. **NILMTK_ozm_vs_iawe** .Analitica del NILMTK sobre el dataset IAWE .Jupyter Notebook. https://github.com/crn565/NILMTK_ozm_vs_iawe
 
 LISTADO DE OTROS REPOSITORIOS
