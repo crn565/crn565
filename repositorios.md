@@ -1,4 +1,4 @@
-LISTADO DE RESPOSITORIOS SOBRE EL NILM
+LISTADO DE REPOSITORIOS SOBRE EL NILM
 
 1.  **crn565** Config files for my GitHub profile.
 2.  **OMPM** .Implementación de Nilmtk usando nuevo hardware basado en ESP32 un bus RS485 con 6 medidores PZEM004. Jupyter Notebook. https://github.com/crn565/OMPM
