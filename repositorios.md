@@ -1,4 +1,4 @@
-LISTADO DE REPOSITORIOS SOBRE EL NILM
+# LISTADO DE REPOSITORIOS SOBRE EL NILM #
 
 1.   **OMPM** .Implementación de Nilmtk usando nuevo hardware basado en ESP32 un bus RS485 con 6 medidores PZEM004. Jupyter Notebook. https://github.com/crn565/OMPM
 2.  **DSUALM10H_OZM**: Medidas tomadas el 16 de junio de 2023. Jupyter Notebook. https://github.com/crn565/DSUALM10H_OZM
@@ -10,7 +10,7 @@ LISTADO DE REPOSITORIOS SOBRE EL NILM
 8.  **PZEM004_ESP32**: Código inicial para toma de datos con un ESP32 y un unico modulo PZEM004. C++ https://github.com/crn565/PZEM004_ESP32
 9. **NILMTK_ozm_vs_iawe** .Analitica del NILMTK sobre el dataset IAWE .Jupyter Notebook. https://github.com/crn565/NILMTK_ozm_vs_iawe
 
-LISTADO DE OTROS REPOSITORIOS
+# LISTADO DE OTROS REPOSITORIOS #
 
 1.  **COPIADE_am207-NILM-project** .Forked from tperol/am207-NILM-project.Repo for am207 final project. Jupyter Notebook MIT License Updated on Jan 19, 2022.
 2.  **aspnetcore** C\# Creative Commons Attribution 4.0 International Updated on Oct 14, 2021
