@@ -20,7 +20,7 @@ While studying for my PhD in Industrial Engineering at the UAL, I've managed to 
 -   C. Rodriguez-Navarro, A. Alcayde, V. Isanbaev, L. Castro-Santos, A. Filgueira-Vizoso, and F. G. Montoya, “DSUALMH- A new high-resolution dataset for NILM,” *Renewable Energy and Power Quality Journal*, vol. 21, no. 1, pp. 238–243, Jul. 2023, doi: 10.24084/repqj21.286.
 -   C. Rodríguez-Navarro, F. Portillo, F. Martínez, F. Manzano-Agugliaro, and A. Alcayde, “Development and Application of an Open Power Meter Suitable for NILM,” *Inventions*, vol. 9, no. 1, p. 2, Dec. 2023, doi: 10.3390/inventions9010002.
 
-# Repositorios de código
+# Code repositories
 
 - OMPM :This repository is supported by an article of mine on the OMPM published in the scientific journal ‘Inventions’: C. Rodríguez-Navarro, F. Portillo, F. Martínez, F. Manzano-Agugliaro, and A. Alcayde, ‘Development and application of an open power meter suitable for NILM’, Inventions, vol. 9, no. 1, p. 2, December 2023, doi: 10.3390/inventions9010002. Despite the l...: DOI : 10.5281/zenodo.13740059
 
@@ -36,9 +36,6 @@ Only common measurements are included...:DOI: 10.5281/zenodo.13739520
 - Converters for the new dataset sets suitable for NILM at the University of Almería:In this repository we present five new converters to generate new NILMTK compatible datasets using respectively oZm v1, oZm v2 and OMPM from the raw data obtained from the meters. The first two new datasets generated from electrical measurements with oZm v1, including the aggregate, start from the same media, excluding harmonics or not. The next...DOI: 10.5281/zenodo.13739113
 
 - https://github.com/crn565 : This repository of my authorship contains more than 50 projects on the collaborative development platform Github, mainly forks related to web development, PHP, JavaScript and Terrafor examples.
-
-
-
 
 
 
