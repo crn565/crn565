@@ -18,7 +18,18 @@
 While studying for my PhD in Industrial Engineering at the UAL, I've managed to get two scientific papers published:
 
 -   C. Rodriguez-Navarro, A. Alcayde, V. Isanbaev, L. Castro-Santos, A. Filgueira-Vizoso, and F. G. Montoya, “DSUALMH- A new high-resolution dataset for NILM,” *Renewable Energy and Power Quality Journal*, vol. 21, no. 1, pp. 238–243, Jul. 2023, doi: 10.24084/repqj21.286.
+    
 -   C. Rodríguez-Navarro, F. Portillo, F. Martínez, F. Manzano-Agugliaro, and A. Alcayde, “Development and Application of an Open Power Meter Suitable for NILM,” *Inventions*, vol. 9, no. 1, p. 2, Dec. 2023, doi: 10.3390/inventions9010002.
+  
+-   C. Rodriguez-Navarro, F. Portillo, L. Castro-Santos, A. Filgueira Vizoso, F. G. Montoya, A. Alcayde, “Optimising energy efficiency enhancing NILM through high resolution data analytics.” 22nd International Conference on Renewable Energy and Power Quality (ICREPQ’24), vol 22, no 4, Jun.2024, doi: https://doi.org/10.52152
+
+Likewise, there are two articles that have been submitted  and are in the revision phase:
+
+-	Carlos Rodríguez-Navarro, Francisco Manzano-Agugliaro, Raúl Baños, Francisco Portillo, Fernando Martínez, Alfredo Alcayde, “Introducing DSUALM10H: A High-Resolution Multi-Channel Dataset for Enhanced, IEEE Transactions on Smart Grid, “Sustainable Energy, Grids and Networks”, Manuscript Number: TSG-01624-2024.
+
+ - Carlos Rodríguez-Navarro, Fernando Martínez, Francisco Portillo, Consolación Gil, Francisco Manzano-Agugliaro, Alfredo Alcayde “Disaggregation metrics in NILMTK: comparative analysis using advanced open hardware”.
+
+
 
 # Code repositories
 
