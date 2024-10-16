@@ -20,6 +20,29 @@ While studying for my PhD in Industrial Engineering at the UAL, I've managed to 
 -   C. Rodriguez-Navarro, A. Alcayde, V. Isanbaev, L. Castro-Santos, A. Filgueira-Vizoso, and F. G. Montoya, “DSUALMH- A new high-resolution dataset for NILM,” *Renewable Energy and Power Quality Journal*, vol. 21, no. 1, pp. 238–243, Jul. 2023, doi: 10.24084/repqj21.286.
 -   C. Rodríguez-Navarro, F. Portillo, F. Martínez, F. Manzano-Agugliaro, and A. Alcayde, “Development and Application of an Open Power Meter Suitable for NILM,” *Inventions*, vol. 9, no. 1, p. 2, Dec. 2023, doi: 10.3390/inventions9010002.
 
+# Repositorios de código
+
+- OMPM :This repository is supported by an article of mine on the OMPM published in the scientific journal ‘Inventions’: C. Rodríguez-Navarro, F. Portillo, F. Martínez, F. Manzano-Agugliaro, and A. Alcayde, ‘Development and application of an open power meter suitable for NILM’, Inventions, vol. 9, no. 1, p. 2, December 2023, doi: 10.3390/inventions9010002. Despite the l...: DOI : 10.5281/zenodo.13740059
+
+- DSUALM10H :In this repository the analysis of measurements of 10 applications including harmonics up to order 150 of voltage, current and power are presented in the attached notebooks. The measurements are performed with 3 three-phase OpenZmeters (each with 4 measurement channels), making a total of 11 measurement channels, distributed among 10 disoisitives.:DOI: 10.5281/zenodo.13740027
+
+- DSUALM10 :In this repository (10_APPLICATIVES_WITHOUT_HARMONICS) we analyse the impact of NOT taking harmonics up to order 50 of the voltage, current and power offered by OZM v2 (i.e. the new version of oVm v2 which is the three-phase version of oZM). Note that in the attached Jupyter Notebook, there is not only the Python code, but also the execution results.DOI: 10.5281/zenodo.13739915
+
+- DSUALMH: This repository presents the analysis of measurements of 10 applications in the attached notebooks, including harmonics up to the order of 150 voltage, current and power.The measurements are performed with 3 three-phase OpenZmeters (each with 4 measurement channels) forming a total of 11 measurement channels DOI: 10.5281/zenodo.13739915
+
+- DSUALM :This is the repository that constitutes the second experiment with ozm v1 using time-coupled data.The time coupling tells us that there is a synchronisation in time between the different measurements of the different counters associated with the commonly used synchronisation and the main common Metro ones. 
+Only common measurements are included...:DOI: 10.5281/zenodo.13739520
+
+- Converters for the new dataset sets suitable for NILM at the University of Almería:In this repository we present five new converters to generate new NILMTK compatible datasets using respectively oZm v1, oZm v2 and OMPM from the raw data obtained from the meters. The first two new datasets generated from electrical measurements with oZm v1, including the aggregate, start from the same media, excluding harmonics or not. The next...DOI: 10.5281/zenodo.13739113
+
+- https://github.com/crn565 : This repository of my authorship contains more than 50 projects on the collaborative development platform Github, mainly forks related to web development, PHP, JavaScript and Terrafor examples.
+
+
+
+
+
+
+
 # Publications in journals
 
 I am passionate about technology as well as creating new things that can help people.
