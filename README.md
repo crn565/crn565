@@ -1,6 +1,8 @@
 # A LESS WORDS ABOUT ME
 
-*I have a degree in Industrial Engineering from the EUTI in Jaén, specialising in Industrial Electronics. I am also a Computer Systems Engineer from the UNED and I have a Masters in Computer Engineering from the UAL (IOT specialisation).*
+*I currently hold a PhD in Industrial Engineering with the distinction of sobresaliente cum laude.*
+
+*I am also a Technical Industrial Engineer specializing in Industrial Electronics from the EUTI of Jaén, as well as a Systems Computer Engineering Technician from the UNED. Additionally, I earned a Master’s degree in Computer Engineering with a specialization in IoT from the University of Almería (UAL) between 2019 and 2022. I have been pursuing my PhD in Industrial Engineering at UAL since 2021.*
 
 *I have worked for Telefónica de España for almost 30 years in digital switching, digital transmission and power systems. I have also been a network administrator and web developer, PL-SQL (Oracle), Java, ASP, JSP, JS, CSS, etc. I have also worked for 15 years as a project manager in Telefónica de España in document systems based on Oracle-Intermedia-Text (ORACLE) and Documentum (EMC).*
 
