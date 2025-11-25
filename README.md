@@ -1,4 +1,4 @@
-# A LESS WORDS ABOUT ME
+# About the author
 
 *I currently hold a PhD in Industrial Engineering with the distinction of sobresaliente cum laude.*
 
