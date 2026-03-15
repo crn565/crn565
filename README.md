@@ -1,5 +1,3 @@
-Here is your GitHub profile content reordered by publication year (most recent first) for easy copy-paste into your README.
-
 ## About me
 
 I am a **Doctor of Industrial Engineering** from the University of Almería and a Computer Engineer, specialized in electronics, embedded systems, and IoT, with a strong focus on Non-Intrusive Load Monitoring (NILM) and energy efficiency. Currently, I design and develop open‑source hardware and software solutions (OZM, OMPM, DSUAL/DSUALM datasets) integrated with NILMTK, aimed at advancing load disaggregation and improving energy efficiency at residential and industrial level. I also maintain the technical blog Soloelectronicos.com, where I publish projects, tutorials, and resources related to electronics, microcontrollers, and energy monitoring.
