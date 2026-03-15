@@ -117,8 +117,8 @@ I am currently the editor of the following blogs:
 I'm learning martial arts since I can remember. These are my belts:
 
 -   Second dan Karate by the RFEK (Royal Spanish Karate Federation
--   Kobudo Brown Belt by ABE (Spanish Budo Association)
--   Iaido Brown Belt by TAKEDA RYU-MAROTO HA
+-   First dan  Kobudo by ABE (Spanish Budo Association)
+-   First dan Iadido by TAKEDA RYU-MAROTO HA
 
 *.![](50c8afd1ad130859e167d2cd126994a0.png)*
 
