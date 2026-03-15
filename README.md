@@ -17,7 +17,7 @@
 
 # Publications in scientific journals
 
-While studying for my PhD in Industrial Engineering at the UAL, I've managed to get two scientific papers published:
+I'm  PhD in Industrial Engineering at the UAL, I've managed to get  this scientific papers published:
 
 -   C. Rodriguez-Navarro, A. Alcayde, V. Isanbaev, L. Castro-Santos, A. Filgueira-Vizoso, and F. G. Montoya, “DSUALMH- A new high-resolution dataset for NILM,” *Renewable Energy and Power Quality Journal*, vol. 21, no. 1, pp. 238–243, Jul. 2023, doi: 10.24084/repqj21.286.
     
@@ -25,11 +25,70 @@ While studying for my PhD in Industrial Engineering at the UAL, I've managed to 
   
 -   C. Rodriguez-Navarro, F. Portillo, L. Castro-Santos, A. Filgueira Vizoso, F. G. Montoya, A. Alcayde, “Optimising energy efficiency enhancing NILM through high resolution data analytics.” 22nd International Conference on Renewable Energy and Power Quality (ICREPQ’24), vol 22, no 4, Jun.2024, doi: https://doi.org/10.52152
 
-Likewise, there are two articles that have been submitted  and are in the revision phase:
+
 
 -	Carlos Rodríguez-Navarro, Francisco Manzano-Agugliaro, Raúl Baños, Francisco Portillo, Fernando Martínez, Alfredo Alcayde, “Introducing DSUALM10H: A High-Resolution Multi-Channel Dataset for Enhanced, IEEE Transactions on Smart Grid, “Sustainable Energy, Grids and Networks”, Manuscript Number: TSG-01624-2024.
 
  - Carlos Rodríguez-Navarro, Fernando Martínez, Francisco Portillo, Consolación Gil, Francisco Manzano-Agugliaro, Alfredo Alcayde “Disaggregation metrics in NILMTK: comparative analysis using advanced open hardware”.
+
+
+About me
+I am a Doctor of Industrial Engineering from the University of Almería and a Computer Engineer, specialized in electronics, embedded systems, and IoT, with a strong focus on Non-Intrusive Load Monitoring (NILM) and energy efficiency. Currently, I design and develop open‑source hardware and software solutions (OZM, OMPM, DSUAL/DSUALM datasets) integrated with NILMTK, aimed at advancing load disaggregation and improving energy efficiency at residential and industrial level. I also maintain the technical blog Soloelectronicos.com, where I publish projects, tutorials, and resources related to electronics, microcontrollers, and energy monitoring.
+
+Links:
+
+GitHub: https://github.com/crn565/
+
+Google Scholar: https://scholar.google.com/citations?user=novmg9EAAAAJ&hl=es
+
+About: https://soloelectronicos.com/about/
+
+Publications by year
+2026
+Rodriguez-Navarro, C., Portillo, F., Martínez-Gil, F., Gil, C., et al.
+"Advances in NILM dataset evaluation: a comparative review within the NILMTK framework"
+Electrical Engineering, 108(3), 163. Q2 (SJR 0.458)
+<sup>Link</sup>
+
+2025
+Rodriguez-Navarro, C., Portillo, F., Robalo, I., Alcayde, A.
+"Evaluation of Traditional and Data-Driven Algorithms for Energy Disaggregation Under Sampling and Filtering Conditions"
+Inventions, 10(3), 43. Q2 (SJR 0.399)
+<sup>Link</sup>
+
+Rodriguez-Navarro, C., Portillo, F., Montoya, F. G., Alcayde, A.
+"The Design, Creation, Implementation, and Study of a New Dataset Suitable for Non-Intrusive Load Monitoring"
+Applied Sciences, 15(13), 7200. Q4 (SJR 0.128)
+<sup>Link</sup>
+
+Rodriguez Navarro, C.
+"EXPLORING NEW HORIZONS IN ELECTRICAL LOAD DISAGGREGATION AND NILM: INNOVATIONS WITH OPEN-SOURCE HARDWARE (OZM AND OMPM) AND SOFTWARE"
+<sup>Link</sup>
+
+2024
+Rodriguez-Navarro, C., Portillo, F., Castro-Santos, L., Filgueira-Vizoso, A., et al.
+"Optimising energy efficiency enhancing NILM through high-resolution data analytics"
+Renewable Energy and Power Quality Journal (RE&PQJ), 22(4), 85–91. Q4 (SJR 0.167)
+<sup>Link</sup>
+
+2023
+Rodríguez-Navarro, C., Portillo, F., Martínez, F., Manzano-Agugliaro, F., et al.
+"Development and Application of an Open Power Meter Suitable for NILM"
+Inventions, 9(1), 2. Q2 (SJR 0.399)
+<sup>Link</sup>
+
+Rodriguez-Navarro, C., Alcayde, A., Isanbaev, V., Castro-Santos, L., et al.
+"DSUALMH – A new high-resolution dataset for NILM"
+European Association for the Development of Renewable Energy, Environment…
+<sup>Link</sup>
+
+2022
+Rodriguez Navarro, C.
+"A new horizon for NILMTK (Non-Intrusive Load Monitoring Toolkit) through OZM"
+<sup>Link</sup>
+
+Journal Rankings (last 10 years): Q2: 50% (3), Q4: 33% (2), NA: 17% (1)
+
 
 
 
