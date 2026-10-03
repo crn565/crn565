@@ -58,7 +58,7 @@ I am a **Doctor of Industrial Engineering** from the University of Almería and 
   **"A new horizon for NILMTK (Non-Intrusive Load Monitoring Toolkit) through OZM"**  
   [<sup>Link</sup>](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=novmg9EAAAAJ&authuser=1&citation_for_view=novmg9EAAAAJ:d1gkVwhDpl0C)
 
-**Journal Rankings (last 10 years):** Q2: 50% (3), Q4: 33% (2), NA: 17% (1)
+**Journal Rankings (last 5 years, SJR):** Q1: 14.3% (1), Q2: 42.9% (3), Q4: 28.6% (2), NA: 14.3% (1).
 
 
 
