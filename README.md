@@ -10,6 +10,12 @@ I am a **Doctor of Industrial Engineering** from the University of Almería and 
 ## Publications by year
 
 ### 2026
+
+- Rodriguez-Navarro, C.; Portillo, F.; Soler-Ortiz, M.; Alcayde, A.  
+  **"Office plug-load dataset for non-intrusive load monitoring in buildings using an open metering platform"**  
+  *Energy and Buildings*, September 2026.  
+  [<sup>Link</sup>](https://doi.org/10.1016/j.enbuild.2026.118300)
+  
 - Rodriguez-Navarro, C., Portillo, F., Martínez-Gil, F., Gil, C., et al.  
   **"Advances in NILM dataset evaluation: a comparative review within the NILMTK framework"**  
   *Electrical Engineering*, 108(3), 163. Q2 (SJR 0.458)  
@@ -125,11 +131,8 @@ I'm learning martial arts since I can remember. These are my belts:
 
 # Contact ways
 
-If you need to contact me, you can address to the following emails:
+If you need to contact me, you can address to the following email:  soloelectronicos@telefonica.net
 
--   soloelectronicos@telefonica.net
--   contacto@soloelectronicos.com
--   info@soloelectronicos.com
 
 
 
