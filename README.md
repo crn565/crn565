@@ -2,7 +2,7 @@
 
 I hold a **PhD in Industrial Engineering from the University of Almería** and have a background in industrial and computer engineering, with a particular interest in electronics, embedded systems, and the Internet of Things (IoT).
 
-As an independent researcher, I focus on **Non-Intrusive Load Monitoring (NILM)**, energy efficiency, and reproducible research using open-source hardware and software. My work includes the development of the **Open Multi Power Meter (OMPM)**, experiments with **openZmeter (oZm)**, and the creation and evaluation of **DSUAL/DSUALM datasets** compatible with **NILMTK**.
+As an independent researcher, I focus on **Non-Intrusive Load Monitoring (NILM)**, energy efficiency, and reproducible research using open-source hardware and software. My work includes the development of the **Open Multi Power Meter (OMPM) in versions 1, 2 and 3**, experiments with **openZmeter (oZm)**, and the creation and evaluation of multple datasets as por example **DSUAL,DSUALM,DSUALM10,DSUALM10H, UALM2, etc ** compatible with **NILMTK**.
 
 I also maintain the technical blog **Soloelectronicos.com**, where I publish projects, tutorials, and resources related to electronics, microcontrollers, computing, and energy monitoring.
 
