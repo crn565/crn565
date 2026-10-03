@@ -1,147 +1,178 @@
 ## About me
 
-I am a **Doctor of Industrial Engineering** from the University of Almería and a Computer Engineer, specialized in electronics, embedded systems, and IoT, with a strong focus on Non-Intrusive Load Monitoring (NILM) and energy efficiency. Currently, I design and develop open‑source hardware and software solutions (OZM, OMPM, DSUAL/DSUALM datasets) integrated with NILMTK, aimed at advancing load disaggregation and improving energy efficiency at residential and industrial level. I also maintain the technical blog Soloelectronicos.com, where I publish projects, tutorials, and resources related to electronics, microcontrollers, and energy monitoring.
+I hold a **PhD in Industrial Engineering from the University of Almería** and have a background in industrial and computer engineering, with a particular interest in electronics, embedded systems, and the Internet of Things (IoT).
 
-**Links:**  
-- GitHub: <https://github.com/crn565/>  
-- Google Scholar: <https://scholar.google.com/citations?user=novmg9EAAAAJ&hl=es>  
-- About: <https://soloelectronicos.com/about/>
+As an independent researcher, I focus on **Non-Intrusive Load Monitoring (NILM)**, energy efficiency, and reproducible research using open-source hardware and software. My work includes the development of the **Open Multi Power Meter (OMPM)**, experiments with **openZmeter (oZm)**, and the creation and evaluation of **DSUAL/DSUALM datasets** compatible with **NILMTK**.
 
-## Publications by year
+I also maintain the technical blog **Soloelectronicos.com**, where I publish projects, tutorials, and resources related to electronics, microcontrollers, computing, and energy monitoring.
+
+**Links:**
+
+- GitHub: <https://github.com/crn565/>
+- Google Scholar: <https://scholar.google.com/citations?user=novmg9EAAAAJ&hl=es>
+- Technical blog: <https://soloelectronicos.com/>
+- About me: <https://soloelectronicos.com/about/>
+
+## Scientific publications by year
 
 ### 2026
 
-- Rodriguez-Navarro, C.; Portillo, F.; Soler-Ortiz, M.; Alcayde, A.  
+- Rodriguez-Navarro, C., Portillo, F., Soler-Ortiz, M., Alcayde, A.  
   **"Office plug-load dataset for non-intrusive load monitoring in buildings using an open metering platform"**  
   *Energy and Buildings*, September 2026.  
-  [<sup>Link</sup>](https://doi.org/10.1016/j.enbuild.2026.118300)
-  
-- Rodriguez-Navarro, C., Portillo, F., Martínez-Gil, F., Gil, C., et al.  
+  [<sup>Article</sup>](https://doi.org/10.1016/j.enbuild.2026.118300)
+
+- Rodriguez-Navarro, C., Portillo, F., et al.  
+  **"Integration of High-Frequency and Harmonic Measurements from Open-Source Meters into NILMTK Datasets"**  
+  *Renewable Energies, Environment and Power Quality Journal*, 26(3), 385–390, July 2026.  
+  [<sup>Article</sup>](https://doi.org/10.24084/reepqj26-35)
+
+- Rodriguez-Navarro, C., Portillo, F., et al.  
+  **"A comparative assessment of open-hardware and commercial energy meters for non-intrusive load monitoring"**  
+  *Measurement*, 284, 122275, June 2026.  
+  [<sup>Article</sup>](https://doi.org/10.1016/j.measurement.2026.122275)
+
+- Rodriguez-Navarro, C., Portillo, F., Martínez-Gil, F., Gil, C., Manzano-Agugliaro, F., Alcayde, A.  
   **"Advances in NILM dataset evaluation: a comparative review within the NILMTK framework"**  
-  *Electrical Engineering*, 108(3), 163. Q2 (SJR 0.458)  
-  [<sup>Link</sup>](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=novmg9EAAAAJ&authuser=1&citation_for_view=novmg9EAAAAJ:IjCSPb-OGe4C)
+  *Electrical Engineering*, 108, 163, 2026.  
+  [<sup>Article</sup>](https://doi.org/10.1007/s00202-025-03476-y)
 
 ### 2025
+
 - Rodriguez-Navarro, C., Portillo, F., Robalo, I., Alcayde, A.  
   **"Evaluation of Traditional and Data-Driven Algorithms for Energy Disaggregation Under Sampling and Filtering Conditions"**  
-  *Inventions*, 10(3), 43. Q2 (SJR 0.399)  
-  [<sup>Link</sup>](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=novmg9EAAAAJ&authuser=1&citation_for_view=novmg9EAAAAJ:2osOgNQ5qMEC)
+  *Inventions*, 10(3), 43, 2025.  
+  [<sup>Article</sup>](https://doi.org/10.3390/inventions10030043)
 
 - Rodriguez-Navarro, C., Portillo, F., Montoya, F. G., Alcayde, A.  
   **"The Design, Creation, Implementation, and Study of a New Dataset Suitable for Non-Intrusive Load Monitoring"**  
-  *Applied Sciences*, 15(13), 7200. Q4 (SJR 0.128)  
-  [<sup>Link</sup>](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=novmg9EAAAAJ&authuser=1&citation_for_view=novmg9EAAAAJ:UeHWp8X0CEIC)
-
-- Rodriguez Navarro, C.  
-  **"EXPLORING NEW HORIZONS IN ELECTRICAL LOAD DISAGGREGATION AND NILM: INNOVATIONS WITH OPEN-SOURCE HARDWARE (OZM AND OMPM) AND SOFTWARE"**  
-  [<sup>Link</sup>](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=novmg9EAAAAJ&authuser=1&citation_for_view=novmg9EAAAAJ:qjMakFHDy7sC)
+  *Applied Sciences*, 15(13), 7200, 2025.  
+  [<sup>Article</sup>](https://doi.org/10.3390/app15137200)
 
 ### 2024
-- Rodriguez-Navarro, C., Portillo, F., Castro-Santos, L., Filgueira-Vizoso, A., et al.  
+
+- Rodriguez-Navarro, C., Portillo, F., Castro-Santos, L., Filgueira-Vizoso, A., Montoya, F. G., Alcayde, A.  
   **"Optimising energy efficiency enhancing NILM through high-resolution data analytics"**  
-  *Renewable Energy and Power Quality Journal (RE&PQJ)*, 22(4), 85–91. Q4 (SJR 0.167)  
-  [<sup>Link</sup>](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=novmg9EAAAAJ&authuser=1&citation_for_view=novmg9EAAAAJ:u5HHmVD_uO8C)
+  *Renewable Energy and Power Quality Journal*, 22(4), 85–91, 2024.  
+  [<sup>Article</sup>](https://doi.org/10.52152/4013)
+
+- Rodríguez-Navarro, C., Portillo, F., Martínez, F., Manzano-Agugliaro, F., Alcayde, A.  
+  **"Development and Application of an Open Power Meter Suitable for NILM"**  
+  *Inventions*, 9(1), 2, 2024. Published online in December 2023.  
+  [<sup>Article</sup>](https://doi.org/10.3390/inventions9010002)
 
 ### 2023
-- Rodríguez-Navarro, C., Portillo, F., Martínez, F., Manzano-Agugliaro, F., et al.  
-  **"Development and Application of an Open Power Meter Suitable for NILM"**  
-  *Inventions*, 9(1), 2. Q2 (SJR 0.399)  
-  [<sup>Link</sup>](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=novmg9EAAAAJ&authuser=1&citation_for_view=novmg9EAAAAJ:9yKSN-GCB0IC)
 
-- Rodriguez-Navarro, C., Alcayde, A., Isanbaev, V., Castro-Santos, L., et al.  
-  **"DSUALMH – A new high-resolution dataset for NILM"**  
-  *European Association for the Development of Renewable Energy, Environment…*  
-  [<sup>Link</sup>](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=novmg9EAAAAJ&authuser=1&citation_for_view=novmg9EAAAAJ:u-x6o8ySG0sC)
+- Rodríguez-Navarro, C., Alcayde, A., Isanbaev, V., Castro-Santos, L., Filgueira-Vizoso, A., Montoya, F. G.  
+  **"DSUALMH—A New High-Resolution Dataset for NILM"**  
+  *Renewable Energy and Power Quality Journal*, 21(1), 238–243, 2023.  
+  [<sup>Article</sup>](https://doi.org/10.24084/repqj21.286)
 
-### 2022
+**Publication summary:** 9 published journal articles listed above. Manuscripts under review and academic theses are listed separately.
+
+## Manuscripts under review
+
+- **"DSUALM10H open-source dataset for advancing energy disaggregation"**  
+  Submitted to *Energy Efficiency* in 2025; revisions pending.  
+  Associated dataset DOI: [10.5281/zenodo.13740027](https://doi.org/10.5281/zenodo.13740027)
+
+## Academic theses and other research work
+
+- Rodriguez Navarro, C.  
+  **"Exploring New Horizons in Electrical Load Disaggregation and NILM: Innovations with Open-Source Hardware (OZM and OMPM) and Software"**  
+  Doctoral thesis, University of Almería.  
+  [<sup>Google Scholar record</sup>](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=novmg9EAAAAJ&authuser=1&citation_for_view=novmg9EAAAAJ:qjMakFHDy7sC)
+
 - Rodriguez Navarro, C.  
   **"A new horizon for NILMTK (Non-Intrusive Load Monitoring Toolkit) through OZM"**  
-  [<sup>Link</sup>](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=novmg9EAAAAJ&authuser=1&citation_for_view=novmg9EAAAAJ:d1gkVwhDpl0C)
+  2022.  
+  [<sup>Google Scholar record</sup>](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=novmg9EAAAAJ&authuser=1&citation_for_view=novmg9EAAAAJ:d1gkVwhDpl0C)
 
-**Journal Rankings (last 5 years, SJR):** Q1: 14.3% (1), Q2: 42.9% (3), Q4: 28.6% (2), NA: 14.3% (1).
+## Open-source hardware, software, and datasets
 
+My repositories include firmware, Jupyter notebooks, dataset converters, and experimental resources developed for my research on energy monitoring and NILM.
 
+- **OMPM — Open Multi Power Meter**  
+  Open-source power-meter hardware and firmware developed for NILM research. The project is described in *"Development and Application of an Open Power Meter Suitable for NILM"*, published in *Inventions*.  
+  [Repository](https://github.com/crn565/OMPM) · [Archived release](https://doi.org/10.5281/zenodo.13740059) · [Article](https://doi.org/10.3390/inventions9010002)
 
+- **OMPM v2**  
+  An updated open metering platform with multiple PZEM measurement channels, ESP32 firmware, a colour TFT display, physical-button menus, microSD logging, and a web interface.  
+  [Repository](https://github.com/crn565/OMPMV2)
 
-# Code repositories
+- **DSUALM10H**  
+  Jupyter notebooks analysing electrical measurements from ten appliances, including voltage, current, and power harmonics up to order 150. Measurements were collected using three three-phase openZmeters, providing eleven measurement channels across the experimental setup.  
+  [Dataset and archived resources](https://doi.org/10.5281/zenodo.13740027)
 
-- OMPM :This repository is supported by an article of mine on the OMPM published in the scientific journal ‘Inventions’: C. Rodríguez-Navarro, F. Portillo, F. Martínez, F. Manzano-Agugliaro, and A. Alcayde, ‘Development and application of an open power meter suitable for NILM’, Inventions, vol. 9, no. 1, p. 2, December 2023, doi: 10.3390/inventions9010002. Despite the l...: DOI : 10.5281/zenodo.13740059
+- **DSUALM10**  
+  Jupyter notebooks evaluating NILM performance using electrical measurements from oZm v2 without harmonic features. The notebooks include Python code and experimental results.  
+  [Dataset and archived resources](https://doi.org/10.5281/zenodo.13739915)
 
-- DSUALM10H :In this repository the analysis of measurements of 10 applications including harmonics up to order 150 of voltage, current and power are presented in the attached notebooks. The measurements are performed with 3 three-phase OpenZmeters (each with 4 measurement channels), making a total of 11 measurement channels, distributed among 10 disoisitives.:DOI: 10.5281/zenodo.13740027
+- **DSUALMH**  
+  A high-resolution dataset and associated notebooks for NILM research, including harmonic measurements obtained with openZmeter devices.  
+  [Related article](https://doi.org/10.24084/repqj21.286) · [Browse repositories](https://github.com/crn565?tab=repositories)
 
-- DSUALM10 :In this repository (10_APPLICATIVES_WITHOUT_HARMONICS) we analyse the impact of NOT taking harmonics up to order 50 of the voltage, current and power offered by OZM v2 (i.e. the new version of oVm v2 which is the three-phase version of oZM). Note that in the attached Jupyter Notebook, there is not only the Python code, but also the execution results.DOI: 10.5281/zenodo.13739915
+- **DSUALM**  
+  Resources for experiments with time-aligned measurements collected using oZm v1, including aggregate and individual appliance measurements.  
+  [Dataset and archived resources](https://doi.org/10.5281/zenodo.13739520)
 
-- DSUALMH: This repository presents the analysis of measurements of 10 applications in the attached notebooks, including harmonics up to the order of 150 voltage, current and power.The measurements are performed with 3 three-phase OpenZmeters (each with 4 measurement channels) forming a total of 11 measurement channels DOI: 10.5281/zenodo.13739915
+- **NILMTK dataset converters**  
+  Five converters for generating NILMTK-compatible datasets from raw electrical measurements collected with oZm v1, oZm v2, and OMPM. These resources support reproducible dataset creation and analysis.  
+  [Archived resources](https://doi.org/10.5281/zenodo.13739113)
 
-- DSUALM :This is the repository that constitutes the second experiment with ozm v1 using time-coupled data.The time coupling tells us that there is a synchronisation in time between the different measurements of the different counters associated with the commonly used synchronisation and the main common Metro ones. 
-Only common measurements are included...:DOI: 10.5281/zenodo.13739520
+- **Other software projects**  
+  Additional repositories cover electronics, embedded systems, web development, PHP, JavaScript, and Terraform examples.  
+  [Browse all repositories](https://github.com/crn565?tab=repositories)
 
-- Converters for the new dataset sets suitable for NILM at the University of Almería:In this repository we present five new converters to generate new NILMTK compatible datasets using respectively oZm v1, oZm v2 and OMPM from the raw data obtained from the meters. The first two new datasets generated from electrical measurements with oZm v1, including the aggregate, start from the same media, excluding harmonics or not. The next...DOI: 10.5281/zenodo.13739113
+## Technical articles
 
-- https://github.com/crn565 : This repository of my authorship contains more than 50 projects on the collaborative development platform Github, mainly forks related to web development, PHP, JavaScript and Terrafor examples.
+Alongside my scientific research, I have written technical articles for Spanish electronics and computing magazines over many years. Topics include:
 
+- “Economic Recorder for Z80” — *Resistor*.
+- “EPROM Programmer for 2732–2732A” — *Resistor*, no. 131.
+- “Internet Access Problems with a 386” — *Shopping Guide*, BPE publishing house.
+- “Problems Accessing Infovía–Internet with Windows 95”.
+- “Build Your Own Local Area Network”, Part 1 — *Ingenium*, no. 1.
+- “Build Your Own Local Area Network”, Part 2 — *Ingenium*, no. 2.
+- “Low-Cost Distributed Audio System” — *Todo Electrónica*, no. 28.
+- “Multimedia Possibilities from Your PC to Your TV” — *Todo Electrónica*, no. 33.
+- “PC-Based Multimedia Player with an LCD Display” — *Todo Electrónica*, no. 35.
+- “Build Your Own GPS Navigator” — *Todo Electrónica*, no. 41.
+- “Dolby Digital 5.1 to Dolby Surround 2.1 Converter” — *Todo Electrónica*, no. 45.
+- “VoIP Adapter” — *Todo Electrónica*, no. 46.
+- “Simple Window Alarm” — *Todo Electrónica*, no. 47.
+- “Home Audio and Video Network” — *Todo Electrónica*, no. 50.
+- “Multipurpose USB Oscilloscope and Voltmeter for PC” — *Todo Electrónica*, no. 50.
 
+## Books
 
+I have also written Spanish-language books about Netduino, available in digital and print formats:
 
-# Publications in journals
+- **The First Book About Netduino 2 in Spanish: Step-by-Step Home Automation Projects for All Levels**  
+  [Amazon](https://amzn.to/3soMo66)
 
-I am passionate about technology as well as creating new things that can help people.
+- **Netduino 2 in Spanish: Echo Version**  
+  [Amazon](https://amzn.to/3IYX6Gs)
 
-I have published numerous technical articles over many years in national publications, including the following:
+## Blogging
 
--   «Economic Recorder for Z80 ″ RESISTOR.
--   «EPROMs recorder for 2732 - 2732A» RESISTOR in number 131
--   Internet access problems with 386 ″ published by the BPE publishing house in SHOPPING GUIDE.
--   "Problems accessing Infovía-INTERNET with Windows 95".
--   Build your own Local Area network »(1st part) for the magazine« Igenium »nº1.
--   «Build your own Local Area network» (2nd part) for the magazine «Ingenium» nº2.
--   «Economic musical thread» «Todo Electrónica» nº 28.
--   «Multimedia possibilities from your PC to your TV» number 33 of the magazine «Todo Electrónica».
--   Multimedia Player based on PC with LCD display nº 35 TodoElectronica.
--   «Build your own GPS navigator» «TodoElectronica» nº 41.
--   Dolby Digital 5.1 to Dolby surround 2.1 converter, «TodoElectronica» nº45.
--   «VoIp Adapter», nº46, »TodoElectronica».
--   «Simple alarm for window», nº47, »TodoElectronica».
--   «Home audio and video network», nº50, »TodoElectrónica».
--   «Multipurpose USB oscilloscope-voltmeter for PC» nº50, TodoElectronica.
--   etc.
+I write and maintain the following blogs:
 
-I've also written two books in both digital and paper format.
+- [Soloelectronicos](https://soloelectronicos.com/) — electronics, computing, tutorials, and practical projects.
+- [Bicycles Electric](https://bicycleselectric.wordpress.com/).
+- [Kobudo](https://kobudo.wordpress.com/).
+- [Takeda Kan Almería](https://takedakanalmeria.wordpress.com/).
 
--   THE FIRST BOOK ABOUT NETDUINO 2 IN SPANISH: Step-by-step home automation projects for all levels (Spanish Edition) https://amzn.to/3soMo66.
--   Netduino 2 in Spanish: Echo Version (Spanish Edition) https://amzn.to/3IYX6Gs.
+## Martial arts
 
-# Blogging
+Martial arts have been a longstanding part of my life. My grades include:
 
-I am currently the editor of the following blogs:
+- **Second dan in Karate**, RFEK — Royal Spanish Karate Federation.
+- **First dan in Kobudo**, ABE — Spanish Budo Association.
+- **First dan in Iaido**, Takeda Ryu Maroto Ha.
 
--   https://soloelectronicos.com.
--   https://bicycleselectric.wordpress.com.
--   https://kobudo.wordpress.com.
--   https://takedakanalmeria.wordpress.com.
+![Martial arts](50c8afd1ad130859e167d2cd126994a0.png)
 
-I'm learning martial arts since I can remember. These are my belts:
+## Contact
 
--   Second dan Karate by the RFEK (Royal Spanish Karate Federation
--   First dan  Kobudo by ABE (Spanish Budo Association)
--   First dan Iadido by TAKEDA RYU-MAROTO HA
-
-*.![](50c8afd1ad130859e167d2cd126994a0.png)*
-
-
-# Contact ways
-
-If you need to contact me, you can address to the following email:  soloelectronicos@telefonica.net
-
-
-
-
-
-
-
-
-
-<!---
-crn565/crn565 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+You can contact me at: [soloelectronicos@telefonica.net](mailto:soloelectronicos@telefonica.net)
